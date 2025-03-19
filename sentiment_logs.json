@@ -1,0 +1,4124 @@
+[
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:22:57.034187"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:22:57.426579"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:22:58.324329"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:22:59.277405"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-16T09:23:00.318677"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:23:01.318097"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:23:02.300357"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:23:03.275093"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:23:04.280324"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:23:05.329841"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:23:06.294576"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:23:07.289948"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:25:54.652933"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:25:55.468250"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:25:56.212857"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:25:57.184863"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:25:58.194911"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:25:59.199522"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:26:00.271303"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:26:01.218152"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:26:02.223064"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:26:03.232749"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:26:04.238153"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:26:05.207352"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:26:06.217778"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:26:07.190506"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:13.777870"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:14.296474"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:15.285537"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:16.238350"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:17.256367"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:18.241646"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:19.286473"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:29:20.244722"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:29:21.294612"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:29:22.290040"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:23.279538"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:29:24.318351"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-16T09:31:08.383895"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-16T09:31:08.999809"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:09.982574"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:10.978941"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:11.992540"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:13.005991"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:14.004709"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:14.976570"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:15.975427"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:17.000797"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:31:17.967692"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-16T09:31:18.956452"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:31:19.988842"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-16T09:31:20.966577"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:31:22.002234"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:31:22.977339"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:24.041319"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:24.976909"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:25.995806"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:26.974556"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:27.997147"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:28.955115"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:29.959543"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:31.073681"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:31.992648"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:32.963483"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:33.975629"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:35.016884"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:31:36.034552"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-16T09:31:36.958700"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:31:37.960131"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:39.038540"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:43.402743"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:44.454992"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:45.525940"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:46.435626"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:47.438207"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:48.449758"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:49.455114"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:51.433006"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-16T09:31:52.519984"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:53.436689"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:31:54.429188"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:40.325202"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:40.776627"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:41.845198"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:42.781029"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-16T09:35:43.713506"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:35:44.798998"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:35:45.874225"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:35:46.799016"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-16T09:35:47.791276"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:48.847513"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:49.823124"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:50.781958"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-16T09:35:51.805936"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-17T15:29:04.335906"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-17T15:29:04.656038"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-17T15:29:05.710014"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-17T15:29:06.673856"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-17T15:29:08.650615"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-17T15:29:09.997558"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-17T15:29:11.627114"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-17T15:29:12.962343"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-17T15:29:13.655530"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-17T15:29:15.632108"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-17T15:29:16.707129"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-17T15:29:17.964293"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "error",
+    "timestamp": "2025-03-18T15:53:21.652484"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-18T15:53:22.021091"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-18T15:53:23.573488"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-18T15:53:24.233544"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-18T15:53:25.537448"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-18T15:53:26.475784"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-18T15:53:27.187630"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-18T15:53:28.256188"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-18T15:53:29.507364"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-18T15:53:30.194273"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-18T15:53:32.485652"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-18T15:53:34.274410"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-18T15:53:35.226705"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-18T15:53:36.231628"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-18T15:53:37.249744"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-18T15:53:38.317065"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:36:42.206701"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:36:43.172371"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T14:36:44.195231"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T14:36:45.196353"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:36:46.177875"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:36:47.187151"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:36:48.220816"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:36:49.195412"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:36:50.166847"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:36:51.170121"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:36:52.202970"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:36:53.183738"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:36:54.148295"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T14:36:56.179360"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:36:57.168798"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:36:58.192196"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:37:00.195308"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:37:01.173228"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:07.105754"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:37:10.096600"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T14:37:12.189065"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:37:14.150980"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:17.114593"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:18.186760"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:29.143255"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:30.174899"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:31.161383"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:45.125184"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:46.254425"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:47.845203"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:49.183102"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:50.178384"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:51.779913"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:52.784304"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:37:53.818758"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:37:54.990181"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:38:58.403192"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:38:59.397500"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:00.434239"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:01.386352"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:02.395608"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:03.351838"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:04.338149"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:05.332079"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:06.358167"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T14:39:12.275637"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T14:39:13.337899"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:14.407262"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:15.333929"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:16.339396"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:17.346649"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:18.359926"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T14:39:19.319251"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:20.327781"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:21.373784"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:22.332054"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:23.306060"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:24.328974"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:25.378352"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:26.337117"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:27.339432"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:28.365021"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:29.370592"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:30.321435"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:31.325725"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:32.385341"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:33.322566"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:34.349603"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:35.337710"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:36.367249"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:37.335049"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:38.345835"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T14:39:39.366780"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:40.348124"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:41.335231"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:42.339125"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:43.423934"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:39:44.374198"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:45.330419"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T14:39:46.381339"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:47.329722"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:39:48.339064"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T14:39:49.392179"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:31.916347"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:32.612657"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:33.573729"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:34.576853"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:35.613886"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:36.556143"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:37.561010"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:40.567435"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:41:41.623748"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T14:41:42.633732"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:48.537548"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:49.600220"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:50.617944"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:51.618758"
+  },
+  {
+    "user_id": 1,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T14:41:52.608483"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:14:52.468427"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:14:52.879189"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:14:53.912360"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:14:54.920787"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:14:55.946634"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:14:56.917111"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:14:57.950577"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:14:58.909089"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:14:59.965278"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:15:00.927277"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:15:01.921753"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:15:03.013738"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:15:03.915593"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:15:04.905026"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:15:05.941334"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:15:06.897555"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:15:07.893482"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:15:08.892445"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:15:09.947241"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:15:11.889191"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:15:13.913615"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:15:14.944672"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:15:15.906382"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:15:16.973778"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:15:17.901242"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:15:18.907976"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:15:19.920524"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:15:20.975298"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:15:21.908680"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:30.188937"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:31.205763"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:32.145061"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:18:33.148964"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:18:34.120721"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:18:35.223338"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:37.131211"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:38.155049"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:39.144401"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:40.128009"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:41.126309"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:42.188510"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:43.120063"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:44.132623"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:45.148940"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:46.161995"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:47.141881"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:48.119775"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:49.196909"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:50.135576"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:51.115863"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:53.142417"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:18:54.123398"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:56.256947"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:57.133258"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:58.141288"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:18:59.192841"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:00.143854"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:02.144850"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:03.144275"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:04.133042"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:05.132208"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:06.192902"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:07.127895"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:08.143617"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:09.154930"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:10.146599"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:11.117061"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:12.118005"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:13.184697"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:14.114600"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:15.133711"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:16.150492"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:17.149937"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:18.126406"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:20.184329"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:21.135579"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:22.143372"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:23.154492"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:24.151241"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:25.120181"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:26.127774"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:27.176977"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:28.124873"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:29.123714"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:30.154160"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:31.165249"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:32.119582"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:33.130809"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:34.181604"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:19:35.142946"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:36.121463"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:37.167348"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:38.141107"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:39.129387"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:40.154527"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:41.230948"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:42.121467"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:43.118804"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:44.183946"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:45.123875"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:46.144474"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:47.166908"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:48.162422"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:49.133698"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:19:50.177047"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:51.205352"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:52.152690"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:19:53.054502"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:55.172022"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:56.105252"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:57.062853"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:58.082637"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:19:59.098297"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:20:00.208071"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:20:02.202687"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:20:03.251282"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:20:04.181591"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "disgust",
+    "timestamp": "2025-03-19T18:20:05.213139"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:20:06.164523"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:22:32.392861"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:22:33.308418"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:22:34.320566"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:22:35.348138"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:23:39.716760"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:23:40.826270"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:23:41.777758"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:24:35.710335"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:24:36.730027"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:24:37.704152"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:24:41.715044"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:24:42.714788"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:24:43.808061"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:24:44.763177"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:29:58.949379"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:29:59.847254"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:30:00.796983"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:30:02.802844"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:03.791471"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:04.817045"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:30:07.782831"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:09.821993"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:10.816091"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:11.818158"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:30:12.811495"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:30:17.745153"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:20.793528"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:21.798652"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:30:22.833006"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:30:23.797003"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:30:24.801190"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:30:25.803959"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:26.852975"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:27.803004"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:28.798836"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:29.813769"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:30.852846"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:31.793118"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:32.799482"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:51.725794"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:52.814626"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:30:53.832487"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:31:11.754568"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:31:12.814476"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:31:13.789320"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:32:56.808241"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:32:57.806789"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:32:58.845702"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:00.792247"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:33:01.834610"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:02.845364"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:03.807304"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:33:04.810348"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:33:05.854024"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:06.764152"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:07.825575"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:33:08.809962"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:09.832981"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:10.796670"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:33:12.831151"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:33:17.778190"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:33:18.831179"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:20.861872"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:23.722795"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:33:24.833383"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:25.812971"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:33:27.825049"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:33:30.743875"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:31.848431"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:32.812513"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:33.817743"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:34.811469"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:35.848279"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:36.799451"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:37.797901"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:38.807952"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:39.872053"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:40.835223"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:41.811697"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:42.838785"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:33:43.815274"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:44.806535"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:45.814008"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:33:47.824856"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:48.800740"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:50.781345"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:33:51.826890"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:33:52.811643"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:53.813417"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:54.854939"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:55.822111"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:56.821501"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:33:57.844957"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:33:58.844009"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:34:00.832600"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:01.788884"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:02.852597"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:34:03.811312"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:04.800112"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:05.895864"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:38.222446"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:40.156157"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:41.174591"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:42.163062"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:48.129393"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:49.199333"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:51.171099"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:52.220808"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:53.166031"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:54.165054"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:55.174105"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:56.258041"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:57.163125"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:58.170594"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:34:59.212571"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:00.164772"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:01.172745"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:02.200271"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:03.173675"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:04.211318"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:05.163792"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:06.213363"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:07.168457"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:08.163139"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:09.178334"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:10.198341"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:11.167774"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:13.205292"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:14.172152"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:15.217744"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:16.165906"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:35:17.304511"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:43:09.207511"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:43:10.192710"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:43:11.109500"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:43:36.131009"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:43:37.195499"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:43:38.176281"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:43:39.185580"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:43:40.209051"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:43:41.194293"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:43:42.247536"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:43:44.182306"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:43:45.239195"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:43:46.203873"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:43:52.116791"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:43:55.129530"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:41.240714"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:44:41.609791"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:47.458546"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:48.470505"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:49.484820"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:50.513598"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:52.485297"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:55.443679"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:56.513792"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:57.481276"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:58.647558"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:44:59.581302"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:00.466952"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:45:01.496472"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:03.429444"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:04.495444"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:05.526583"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:06.547273"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:07.547269"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:08.487981"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:09.544338"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:10.498753"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:11.482388"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:12.474755"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:15.444677"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:16.488408"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:17.472545"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:18.515090"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:45:19.464608"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:45:20.473171"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:21.531827"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:22.440751"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:45:23.407550"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:24.471865"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:45:25.520040"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:26.505676"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:45:27.471008"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:28.487832"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:29.509200"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:30.547468"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:31.517897"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:45:32.529756"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:45:54.420813"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:19.476484"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:46:20.472808"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:21.462915"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:22.464097"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:23.513948"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:46:24.479252"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:46:25.487708"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:26.492898"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:46:27.480146"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:28.484779"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:29.466692"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:30.519664"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:31.479428"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:32.483317"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:46:33.492847"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:34.496962"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:35.469107"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:36.466753"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:37.512423"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:46:38.470534"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:46:39.479634"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:10.428706"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:11.515570"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:47:12.488159"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:13.478146"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:14.529105"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:15.486378"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:47:18.422552"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:47:21.427417"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:22.508970"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:23.477930"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:47:25.512738"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:47:26.497913"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:47:27.491988"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:47:28.481398"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:30.478783"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:31.485382"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:47:32.472559"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:33.526476"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:34.467877"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:35.490501"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:47:36.480234"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:37.504050"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:38.477362"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:39.564949"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:47:40.579414"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:41.509219"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:42.612871"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:44.775466"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:46.649473"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:47.599074"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:48.509658"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:49.574923"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:47:50.515118"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:51.518805"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:47:52.598451"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:54.920957"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:56.165110"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:47:56.689846"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:47:57.629154"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:47:59.615050"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:48:00.661606"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:01.608901"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:02.608078"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:03.645314"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:04.511848"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:06.578314"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:07.518917"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:08.543188"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:13.576837"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:48:14.542417"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:48:15.540708"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:16.601704"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:17.526041"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:18.529552"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:19.548470"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:20.509659"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:21.520216"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:22.547476"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:23.557578"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:24.526259"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:25.533106"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:26.563753"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:27.523234"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:48:28.549175"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:29.554404"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:30.529072"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:31.505992"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:32.479699"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:33.563599"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:34.515046"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:35.523561"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:36.541115"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:37.538868"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "surprise",
+    "timestamp": "2025-03-19T18:48:38.509062"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:39.510716"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:40.557376"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:41.510314"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:42.511700"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:43.525515"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:44.529859"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:48:45.498103"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:46.506923"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:47.571170"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:48.558219"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:49.523569"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:50.558967"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:51.494439"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:53.429350"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:54.545670"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:55.506617"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:56.537604"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:48:57.624631"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:48:59.513069"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:49:01.559366"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:08.472339"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:49:11.416685"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:12.559927"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:13.524434"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:14.524448"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:15.556593"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:16.528802"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:17.519959"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:18.544186"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:49:19.580706"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:49:20.573984"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:49:21.540592"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:22.556205"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:49:24.583269"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:49:25.674842"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:49:26.528668"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "happy",
+    "timestamp": "2025-03-19T18:49:31.427238"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:49:33.459553"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:49:35.502313"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:49:40.417079"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:49:47.445680"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:49:50.438270"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:49:53.490524"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:49:54.495590"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:49:55.502557"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:49:58.414905"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:49:59.449488"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:50:00.541994"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:50:01.503536"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:50:02.492758"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:50:04.553864"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:50:05.447668"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:50:15.507727"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:50:16.418317"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:50:17.498856"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:50:18.491719"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "sad",
+    "timestamp": "2025-03-19T18:50:24.414280"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:50:25.506137"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "fear",
+    "timestamp": "2025-03-19T18:50:26.499138"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "angry",
+    "timestamp": "2025-03-19T18:50:29.465508"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:50:33.472732"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:50:34.536422"
+  },
+  {
+    "user_id": null,
+    "user_name": "Ismael",
+    "sentiment": "neutral",
+    "timestamp": "2025-03-19T18:50:49.440274"
+  }
+]
