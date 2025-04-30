@@ -2,27 +2,61 @@ from flask import Flask, request, jsonify, render_template
 import cv2, numpy as np, base64, os, concurrent.futures, json
 from datetime import datetime
 from deepface import DeepFace
-from src.database import init_db, select_alunos
 from src.recognition import process_frame, MODEL_NAME, TARGET_SIZE
+import requests
+from urllib.parse import urljoin
 
 app = Flask(__name__)
 sentiment_counts = {'happy': 0, 'neutral': 0, 'fear': 0, 'sad': 0, 'surprise': 0}
 
 def load_registered_embeddings():
-    alunos = select_alunos()
+    API_URL       = "http://127.0.0.1:8000/gestao/api/estudantes/"
+    MEDIA_BASE    = "http://127.0.0.1:8000"
+    MEDIA_URL_PATH = "/media/" 
+
+    resp = requests.get(API_URL)
+    if resp.status_code != 200:
+        print("Erro ao buscar estudantes da API Django:", resp.status_code)
+        return []
+    estudantes = resp.json() 
+    
     registered_embeddings = []
-    for aluno in alunos:
-        try:
-            local_path = os.path.join('imagens', os.path.basename(aluno[2]))
-            img = cv2.imread(local_path)
-            if img is None:
-                continue
-            img = cv2.resize(img, TARGET_SIZE)
-            img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-            embedding = DeepFace.represent(img, model_name=MODEL_NAME, enforce_detection=False)[0]["embedding"]
-            registered_embeddings.append({'id': aluno[0], 'name': aluno[1], 'embedding': np.array(embedding)})
-        except Exception as e:
-            print(f"Erro ao processar {aluno[1]}: {str(e)}")
+    for est in estudantes:
+        name = est.get('name')
+        photo_path = est.get('photo')     
+        if not photo_path:
+            print(f"{name} não tem foto cadastrada, pulando…")
+            continue
+        
+        normalized = photo_path if photo_path.startswith("/") else f"/{photo_path}"
+        full_url = urljoin(MEDIA_BASE, MEDIA_URL_PATH.lstrip("/") + normalized)
+
+
+        img_resp = requests.get(full_url)
+        if img_resp.status_code != 200:
+            print(f"  → Falha ao baixar foto de {name}: {img_resp.status_code}")
+            continue
+
+        img_array = np.frombuffer(img_resp.content, dtype=np.uint8)
+        img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
+        if img is None:
+            print(f"  → Imagem inválida para {name}")
+            continue
+
+        img = cv2.resize(img, TARGET_SIZE)
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        embedding = DeepFace.represent(
+            img,
+            model_name=MODEL_NAME,
+            enforce_detection=False
+        )[0]["embedding"]
+
+        registered_embeddings.append({
+            'code':      est.get('code'),
+            'name':      name,
+            'embedding': np.array(embedding)
+        })
+
     return registered_embeddings
 
 registered_embeddings = load_registered_embeddings()
@@ -97,5 +131,4 @@ def get_sentiment_stats():
     return jsonify(sentiment_counts)
 
 if __name__ == '__main__':
-    init_db()
     app.run(debug=True, host='0.0.0.0', port=5000)
